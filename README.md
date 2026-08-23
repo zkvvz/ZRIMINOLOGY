@@ -1,2 +1,2 @@
 # ZRIMINOLOGY
-priv script
+**private choices only**
