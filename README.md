@@ -1,0 +1,2 @@
+# ZRIMINOLOGY
+priv script
